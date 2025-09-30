@@ -242,7 +242,8 @@ footer a {
   }
   .footer_titulo {
     border-radius: 2rem;
-    width: 10rem;
+    width: 20%;
+    padding: 1rem;
   }
   .footer_div h4,
   p {
