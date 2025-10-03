@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Carrito</title>
     <link
       rel="stylesheet"
@@ -18,9 +18,9 @@
       href="https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&family=League+Spartan:wght@100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="../asset/css/style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="../asset/css/style.css" />
+  </head>
+  <body>
     <header id="headerColors">
       <img class="logo" src="../asset/img/logo.png" alt="logo" />
       <button class="open_b" id="abrir"><i class="bi bi-list"></i></button>
@@ -32,7 +32,7 @@
           <li><a href="../pages/packs.html">Packs</a></li>
           <li><a href="../pages/contact.html">Contacto</a></li>
           <li class="cart_style">
-            <a target="_blank" href="../pages/cart.html">
+            <a href="../pages/cart.html">
               <i class="bi bi-cart"></i><span class="number">0</span></a
             >
           </li>
@@ -46,12 +46,21 @@
       </div>
     </aside>
     <!-- presentacion -->
-    <div class="presentation">
-      <h1 id="h1Colors">Mundo Para Pintar</h1>
-      <h2 id="h2Colors">TU CARRITO :</h2>
-    </div>
-
-
+    <main>
+      <div class="presentation">
+        <h1 id="h1Colors">Mundo Para Pintar</h1>
+        <h2 id="h2Colors">TU CARRITO :</h2>
+      </div>
+      <!-- carrito -->
+      <div class="cart_details">
+        <img src="" alt="imagen del producto" />
+        <div>
+          <p>producto</p>
+          <p>detalle</p>
+        </div>
+      </div>
+      <div></div>
+    </main>
     <!-- informacion -->
     <footer class="footer" id="footerColors">
       <div class="footer_titulo">
@@ -80,5 +89,5 @@
     </footer>
     <!-- aqui se coloca el boton flotante scroll-to-top -->
     <script src="../asset/js/script.js"></script>
-</body>
+  </body>
 </html>
