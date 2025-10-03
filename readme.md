@@ -15,7 +15,6 @@ Desde **mandalas relajantes**, **animales adorables** y **personajes encantadore
 
 - Para quienes buscan un momento de **relajación y creatividad**
 - Para quienes quieren **regalar arte y diversión**
-- Para emprendedores que desean **revender productos digitales**
 - Para todos los que aman colorear ✨
 
 ## Formato
@@ -33,9 +32,9 @@ Tu próximo momento creativo está a un clic de distancia 🎨✨
   <strong>⚠️ Atención:</strong> Este sitio web está en proceso de construcción 😢
 </div>
 
-## 🌐 PERO...
+## 🌐 Pero...
 
-[Aquí puedes espíar 🧐👉](https://cintiaalfaro29.github.io/pawport_web/)
+[🧐👉 Aquí puedes espíar ](https://cintiaalfaro29.github.io/para_pintar_web/)
 
 ## 🛠️ Tecnologías usadas
 
